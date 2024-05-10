@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
 
-<h4 align="center"><a href="repository-one-tau.vercel.app">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://repository-one-tau.vercel.app">Confira o projeto aqui</a></h4>
 
 ---
 
