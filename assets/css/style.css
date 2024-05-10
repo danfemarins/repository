@@ -10,8 +10,8 @@
 
 :root {
   --hue: 90;
-  --primary-color: hsl(var(--hue), 92%, 43%);
-  --primary-hover: hsl(var(--hue), 92%, 33%);
+  --primary-color: white;
+  --primary-hover: white;
   --secundary-color: hsl(0, 0%, 5%);
   --third-color: hsla(0, 0%, 100%, 0.1);
   --bg-color: hsl(0, 0%, 8%);
@@ -98,7 +98,7 @@ section h4 {
   font-weight: 700;
   line-height: 150%;
   letter-spacing: 0.08rem;
-  color: var(--primary-color);
+  color: red;
   text-transform: uppercase;
 
   margin-bottom: 1.6rem;
@@ -108,7 +108,7 @@ section header h2 {
   font-size: 3rem;
   line-height: 3.9rem;
 
-  color: var(--primary-color);
+  color: red;
 }
 
 section h3 {
@@ -126,14 +126,14 @@ section span {
 
 .button {
   background: none;
-  border: 0.2rem solid var(--primary-color);
+  border: 0.2rem solid red;
 
   margin-bottom: 6rem;
   padding: 1.4rem 3rem;
 
   width: fit-content;
 
-  color: var(--primary-color);
+  color: white;
   font-size: 1.4rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -149,6 +149,10 @@ section span {
   transition: 400ms;
 }
 
+.white-icon {
+  filter: brightness(0) invert(1);
+}
+
 body.light-mode .button,
 body.light-mode #home h4 {
   filter: brightness(0.8);
@@ -156,8 +160,8 @@ body.light-mode #home h4 {
 
 .button:hover {
   color: #fff;
-  background-color: var(--primary-hover);
-  border: 0.2rem solid var(--primary-hover);
+  background-color: red;
+  border: 0.2rem solid red;
   cursor: pointer;
 }
 
@@ -277,14 +281,25 @@ body.light-mode nav.scroll {
 
 /* LOGO */
 
+.logo {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.logo-img {
+  width: 22px; /* Ajuste o tamanho conforme necessário */
+  margin-right: 10px;
+}
+
 a.logo {
   font-family: "Gemunu Libre", sans-serif;
-  font-size: 3rem;
+  font-size: 1px;
   opacity: 0.7;
 }
 
 nav#navigation a.logo {
-  color: var(--primary-color);
+  color: white;
 }
 
 body.light-mode nav#navigation a.logo,
@@ -1106,7 +1121,7 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
   }
 
   nav#navigation .menu ul li a {
-    color: var(--primary-color);
+    color: white;
     opacity: 0.7;
 
     transition: opacity 0.4s;
