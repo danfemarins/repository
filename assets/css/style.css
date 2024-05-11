@@ -130,7 +130,7 @@ section span {
   margin-bottom: 6rem;
   padding: 1.4rem 3rem;
   width: fit-content;
-  color: var(--button-text-color-light); /* Utilizando variável para a cor do texto */
+  color: rgb(255, 255, 255);
   font-size: 1.4rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -142,21 +142,6 @@ section span {
   position: relative;
   transition: 400ms;
   border-radius: 0; /* Adicionando para tornar as bordas quadradas */
-}
-
-/* Adicionando regra para o tema escuro */
-[data-theme='dark'] .button {
-  color: var(--button-text-color-dark); /* Alterando a cor do texto para o tema escuro */
-}
-
-/* Para o tema claro */
-:root {
-  --button-text-color-light: #000; /* Cor do texto para o tema claro */
-}
-
-/* Para o tema escuro */
-[data-theme='dark'] {
-  --button-text-color-dark: #fff; /* Cor do texto para o tema escuro */
 }
 
 .white-icon {
