@@ -154,7 +154,7 @@ body.light-mode #home h4 {
 }
 
 .button:hover {
-  color: #fff;
+  color: #000000;
   background-color: red;
   border: 0.2rem solid red;
   cursor: pointer;
@@ -170,7 +170,7 @@ body.light-mode .button:hover {
   margin-bottom: 6rem;
   padding: 1.4rem 3rem;
   width: fit-content;
-  color: white;
+  color: rgb(0, 0, 0);
   font-size: 1.4rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -185,7 +185,6 @@ body.light-mode .button:hover {
 }
 
 .btn-download:hover {
-  color: #fff;
   background-color: red;
   border: 0.2rem solid red;
   cursor: pointer;
