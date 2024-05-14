@@ -1,8 +1,8 @@
 <h1 align="center">Portifólio - Daniel Felipe 💻</h1>
 
-![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
+![Imagem do projeto finalizado](assets/images/projects/)
 
-<h4 align="center"><a href="https://repository-one-tau.vercel.app">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://www.danielfelipemarins.com.br">Confira o projeto aqui</a></h4>
 
 ---
 
@@ -46,7 +46,7 @@ Neste projeto apliquei os seguintes pontos:
       <img src="https://github.com/lucyanovidio.png" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/lucyanovidio">Lucyan Ovídio.</a> 🙋🏿‍♂️
+      Feito por <a href="https://github.com/danfemarins">Daniel Felipe.</a> 🙋🏿‍♂️
     </td>
   </tr>
 </table>
