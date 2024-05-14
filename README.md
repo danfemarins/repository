@@ -1,6 +1,6 @@
 <h1 align="center">Portifólio - Daniel Felipe 💻</h1>
 
-![Imagem do projeto finalizado](assets/images/projects/)
+![Imagem do projeto finalizado](assets/images/projects/portfolio.png)
 
 <h4 align="center"><a href="https://www.danielfelipemarins.com.br">Confira o projeto aqui</a></h4>
 
