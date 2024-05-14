@@ -46,9 +46,7 @@ Neste projeto apliquei os seguintes pontos:
       <img src="https://github.com/danfemarins.png" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/danfemarins">Daniel Felipe.
-
-    </td>
+      Feito por <a href="https://github.com/danfemarins">Daniel Felipe.💻
   </tr>
 </table>
 
