@@ -946,7 +946,7 @@ body.light-mode #home img#notebook-2-white {
 }
 
 #contact .col-b img {
-  width: 13rem;
+  width: 35rem;
   animation: flutuar 2.5s infinite backwards;
   filter: brightness(1.2);
 }
