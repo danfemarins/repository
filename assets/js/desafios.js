@@ -5,12 +5,12 @@ function desafios(section) {
       <h2>Desafio 21 dias de código</h2>
       <p>
         Desafio da
-        <a href="https://rocketseat.com.br" target="_blank">Rocketseat</a>
+        <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank">cursin do foguetin</a>
         criado com o propósito de prática diária em 21 dias consecutivos com
         vários pequenos projetos diferentes.
       </p>
       <a
-        href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat"
+        href="https://github.com/danfemarins/command_voice_aws_service"
         target="_blank"
       >
         <svg
@@ -39,7 +39,7 @@ function desafios(section) {
             />
             <div class="buttons">
               <a
-                href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat/tree/main/dia-1"
+                href="https://github.com/danfemarins/command_voice_aws_service"
                 target="_blank"
                 title="Repositório no Github"
               >
@@ -56,7 +56,7 @@ function desafios(section) {
                   />
                 </svg>
               </a>
-              <a href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat/" 
+              <a href="https://github.com/danfemarins/command_voice_aws_service" 
               target="_blank"
               title="Ver Projeto">
                 <svg
@@ -104,7 +104,7 @@ function desafios(section) {
                 </svg>
               </a>
               <a
-                href="https://lucyanovidio.github.io/desafio-21-dias-codigo-rocketseat/dia-2/"
+                href="https://github.com/danfemarins/command_voice_aws_service"
                 target="_blank"
                 title="Ver Projeto"
               >
@@ -131,7 +131,7 @@ function desafios(section) {
             <img src="./assets/images/projects/desafios/3.gif" alt="Imagem do projeto." />
             <div class="buttons">
               <a
-                href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat/tree/main/dia-3"
+                href="https://github.com/danfemarins/command_voice_aws_service"
                 target="_blank"
                 title="Repositório no Github"
               >
@@ -149,7 +149,7 @@ function desafios(section) {
                 </svg>
               </a>
               <a
-                href="https://lucyanovidio.github.io/desafio-21-dias-codigo-rocketseat/dia-3/"
+                href="https://github.com/danfemarins/command_voice_aws_service"
                 target="_blank"
                 title="Ver Projeto"
               >
@@ -176,7 +176,7 @@ function desafios(section) {
             <img src="./assets/images/projects/desafios/4.gif" alt="Imagem do projeto." />
             <div class="buttons">
               <a
-                href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat/tree/main/dia-4"
+                href="https://github.com/danfemarins/command_voice_aws_service"
                 target="_blank"
                 title="Repositório no Github"
               >
@@ -194,7 +194,7 @@ function desafios(section) {
                 </svg>
               </a>
               <a
-                href="https://lucyanovidio.github.io/desafio-21-dias-codigo-rocketseat/dia-4/"
+                href="https://github.com/danfemarins/command_voice_aws_service"
                 target="_blank"
                 title="Ver Projeto"
               >
@@ -220,7 +220,7 @@ function desafios(section) {
           <div class="img-wrapper">
             <img src="./assets/images/projects/desafios/5.gif" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat/tree/main/dia-5" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -234,7 +234,7 @@ function desafios(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.github.io/desafio-21-dias-codigo-rocketseat/dia-5/" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -259,7 +259,7 @@ function desafios(section) {
           <div class="img-wrapper">
             <img src="./assets/images/projects/desafios/6.png" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat/tree/main/dia-6" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -273,7 +273,7 @@ function desafios(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.github.io/desafio-21-dias-codigo-rocketseat/dia-6/" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -298,7 +298,7 @@ function desafios(section) {
           <div class="img-wrapper">
             <img src="./assets/images/projects/desafios/7.gif" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat/tree/main/dia-7" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -312,7 +312,7 @@ function desafios(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.github.io/desafio-21-dias-codigo-rocketseat/dia-7/" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -337,7 +337,7 @@ function desafios(section) {
           <div class="img-wrapper">
             <img src="./assets/images/projects/desafios/8.gif" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat/tree/main/dia-8" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -351,7 +351,7 @@ function desafios(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.github.io/desafio-21-dias-codigo-rocketseat/dia-8/" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -741,7 +741,7 @@ function desafios(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.github.io/desafio-21-dias-codigo-rocketseat/dia-18/" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -805,7 +805,7 @@ function desafios(section) {
           <div class="img-wrapper">
             <img src="./assets/images/projects/desafios/20.gif" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat/tree/main/dia-20" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -819,7 +819,7 @@ function desafios(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.github.io/desafio-21-dias-codigo-rocketseat/dia-20/" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -844,7 +844,7 @@ function desafios(section) {
           <div class="img-wrapper">
             <img src="./assets/images/projects/desafios/21.gif" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/portifolio" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -858,7 +858,7 @@ function desafios(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.vercel.app" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
