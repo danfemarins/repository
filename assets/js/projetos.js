@@ -159,11 +159,11 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Página de contato para consultas desenvolvida para cliente.</p>
+          <p>Projeto DEVOPS para meu portfolio.</p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
-          <h3>Doctor Care</h3>
+          <h3>Projeto DEVOPS</h3>
           <div class="img-wrapper">
             <img src="./assets/images/imagem-de-daniel.jpg" alt="Imagem do projeto." />
             <div class="buttons">
@@ -196,7 +196,7 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Projeto de site desenvolvido na Next Level Week Return da Rocketseat.</p>
+          <p>Projeto DEVOPS para meu portfolio.</p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
