@@ -151,6 +151,7 @@ section span {
 body.light-mode .button,
 body.light-mode #home h4 {
   filter: brightness(0.8);
+  color: #000;
 }
 
 .button:hover {
