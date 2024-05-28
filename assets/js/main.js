@@ -1,17 +1,17 @@
-/*import { desafios } from "./desafios.js";
-import { projetos } from "./projetos.js"; */
+import { desafios } from "./desafios.js";
+import { projetos } from "./projetos.js"; 
 
 const navigation = document.querySelector("#navigation");
 const backToTopButton = document.querySelector("#backToTopButton");
 const toggle = document.querySelector("#sw-checkbox");
-/*const projectsSection = document.querySelector("#projects .wrapper");*/
+const projectsSection = document.querySelector("#projects .wrapper");
 
 const notebook_1 = document.querySelector("#notebook-1");
 const notebook_2 = document.querySelector("#notebook-2");
 const notebook_2_white = document.querySelector("#notebook-2-white");
 const vidro = document.querySelector("#vidro");
 
-/*window.addEventListener("load", function begin() {
+window.addEventListener("load", function begin() {
   projetos(projectsSection);
   const desafioBtn = document.querySelector("#desafio");
 
@@ -21,7 +21,7 @@ const vidro = document.querySelector("#vidro");
       .querySelector("#backToProjectsBtn")
       .addEventListener("click", begin);
   });
-}); */
+}); 
 
 window.addEventListener("scroll", onScroll);
 onScroll();
@@ -40,7 +40,7 @@ function onScroll() {
   showBackToTopButtonOnScroll();
 
   activateMenuAtCurrentSection(about);
-/*activateMenuAtCurrentSection(projects); **/
+  activateMenuAtCurrentSection(projects); 
   activateMenuAtCurrentSection(knowledge);
   activateMenuAtCurrentSection(contact);
 }
