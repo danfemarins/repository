@@ -150,7 +150,7 @@ section span {
 
 body.light-mode .button,
 body.light-mode #home h4 {
-  color: black;
+  filter: brightness(0.8);
 }
 
 .button:hover {
@@ -364,7 +364,6 @@ body.menu-expanded nav#navigation a.logo {
 
 body.light-mode nav#navigation a.logo {
   filter: brightness(0.8);
-  color: #000;
 }
 
 body.light-mode footer a.logo,
@@ -613,8 +612,6 @@ body.light-mode #home img#notebook-2-white {
   z-index: 100;
   right: -2rem;
   animation: appear-vidro 1s 2.3s backwards;
-
-  filter: contrast(5);
 }
 
 @keyframes appear {
@@ -1174,7 +1171,6 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
 
   body.light-mode nav#navigation .menu ul li a {
     opacity: 1;
-    color: #000;
   }
 
   nav#navigation.scroll .menu ul li a {
