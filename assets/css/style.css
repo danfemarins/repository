@@ -1241,12 +1241,6 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
     gap: 1.5rem;
   }
 
-  @media (prefers-color-scheme: light) {
-    nav#navigation .social-links a {
-      color: black;
-    }
-  }
-  
   nav#navigation .social-links li:nth-child(1) svg path {
     stroke: var(--primary-color);
   }
