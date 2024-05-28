@@ -364,6 +364,7 @@ body.menu-expanded nav#navigation a.logo {
 
 body.light-mode nav#navigation a.logo {
   filter: brightness(0.8);
+  color: #000;
 }
 
 body.light-mode footer a.logo,
@@ -1173,6 +1174,7 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
 
   body.light-mode nav#navigation .menu ul li a {
     opacity: 1;
+    color: #000;
   }
 
   nav#navigation.scroll .menu ul li a {
@@ -1239,6 +1241,12 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
     gap: 1.5rem;
   }
 
+  @media (prefers-color-scheme: light) {
+    nav#navigation .social-links a {
+      color: black;
+    }
+  }
+  
   nav#navigation .social-links li:nth-child(1) svg path {
     stroke: var(--primary-color);
   }
