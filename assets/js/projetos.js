@@ -5,14 +5,14 @@ function projetos(section) {
     <div class="content">
       <div class="cards">
         <div class="card">
-          <h3>Orange Evolution</h3>
+          <h3>Projeto DEVOPS</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/projects/orange-evolution.gif"
-              alt="GIF do projeto Orange Evolution."
+              src="./assets/images/imagem-de-daniel.jpg"
+              alt="GIF do projeto DEVOPS."
             />
             <div class="buttons">
-              <a href="https://github.com/squad-30/OrangeEvolution-Squad30" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -26,7 +26,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://orangeevolution-squad30.up.railway.app" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -42,19 +42,19 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Plataforma de estudos desenvolvida na Hackathon do Programa de Formação 4 da FCamara.
+            Plataforma de Devops
           </p>
           <p>HTML - CSS - JS - NodeJS - Express - SQLite</p>
         </div>
         <div class="card">
-          <h3>Desafio 21 dias de código</h3>
+          <h3>Desafio do Devops</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/projects/desafio-de-codigo.jpg"
+              src="./assets/images/imagem-de-daniel.jpg"
               alt="Imagem tema do projeto de desafio de código."
             />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -84,16 +84,16 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Desafio promovido pela Rocketseat com 21 projetos diferentes.
+            Projeto em python .
           </p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
-          <h3>Nutricionista Roberto - Links</h3>
+          <h3> Reconhecimento de voz</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/roberto-links.gif" alt="Imagem do projeto." />
+            <img src="./assets/images/imagem-de-daniel.jpg" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/robertoovidionutri-bio" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -107,7 +107,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://robertoovidionutri-bio.vercel.app" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -122,15 +122,15 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Páginas de links desenvolvida para cliente.</p>
+          <p>Projetin fellas</p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
-          <h3>Nutricionista Roberto - Página de consulta</h3>
+          <h3>Projeto devops</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/roberto-consulta.gif" alt="Imagem do projeto." />
+            <img src="./assets/images/imagem-de-daniel.jpg" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/robertoovidionutri-consulta" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -144,7 +144,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://robertoovidionutri-consulta.vercel.app" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -165,9 +165,9 @@ function projetos(section) {
         <div class="card">
           <h3>Doctor Care</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/doctorcare.gif" alt="Imagem do projeto." />
+            <img src="./assets/images/imagem-de-daniel.jpg" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/doctorcare" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -181,7 +181,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.github.io/doctorcare/" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -202,9 +202,9 @@ function projetos(section) {
         <div class="card">
           <h3>Meu Portifólio</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/portifolio.gif" alt="Imagem do projeto." />
+            <img src="./assets/images/imagem-de-daniel.jpg" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/portifolio" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/danfemarins/repository" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
