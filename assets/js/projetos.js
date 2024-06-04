@@ -68,7 +68,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://github.com/danfemarins/command_voice_aws_service" id="desafio" title="Ver Projetos">
+              <a href="https://github.com/danfemarins/command_voice_aws_service" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
