@@ -125,6 +125,7 @@ function projetos(section) {
           <p>Projetin fellas</p>
           <p>HTML - CSS - JS</p>
         </div>
+        <!--        
         <div class="card">
           <h3>Projeto devops</h3>
           <div class="img-wrapper">
@@ -239,7 +240,9 @@ function projetos(section) {
           </p>
           <p>HTML - CSS - JS</p>
         </div>
-        <div></div>
+        <div></div> 
+
+        -->
         <div class="card">
           <h3>Em breve...</h3>
           <svg
